@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $(".business").hover(function(){
-        $(".dropdown-menus2").css("display","block");
+        $(".dropdown-menus2").show(900);
     });
 
     $(".business").mouseleave(function(){

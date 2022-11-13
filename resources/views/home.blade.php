@@ -262,5 +262,6 @@
     <footer>
 
     </footer>
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
 </body>
 </html>
